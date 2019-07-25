@@ -1,0 +1,37 @@
+.logo-brand {
+	position: relative;
+	width: 190px;
+	padding: 3px;
+	font-size: 43px;
+	z-index: 1;
+	color: #fff;
+}
+.logo-brand:before {
+	content: "";
+	position: absolute;
+	top: -16px;
+	left: 0;
+	width: 82px;
+	height: 65px;
+	background-color: #00aedb;
+	z-index: -1;
+}
+.logo-brand:after {
+	content: "";
+	position: absolute;
+	top: -6px;
+	right: 1px;
+	width: 108px;
+	height: 55px;
+	background-color: #00aedb;
+	z-index: -1;
+}
+.logo-brand span {
+	padding: 6px 0 0px 0;
+	background-color: #b5da06;
+	color: #fff;
+}
+.logo-brand span:first-child {
+	padding: 16px 0 0;
+	color: #fff;
+}

@@ -1,0 +1,53 @@
+.write-comment-title {
+    width: 220px;
+    margin-top: 30px;
+    padding: 15px 30px;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #5261ac;
+}
+.write-comment-input-wrap span{
+    font-size: 17px;
+    color: #888888;
+    text-transform: capitalize;
+    float: right;
+    margin-top: 25px;
+    padding: 0 15px;
+}
+.write-comment-input-wrap input {
+    margin-top: 25px;
+    width: 435px;
+    font-size: 15px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    outline: none;
+    border: solid 1px #888888;
+}
+.write-comment-input-wrap textarea {
+    resize: none;
+    padding: 5px 10px;
+    width: 435px;
+    height: 124px;
+    margin: 25px 0;
+    font-size: 15px;
+    border-radius: 5px;
+    outline: none;
+    border: solid 1px #888888;
+}
+.post-page-write-comment button {
+    padding: 15px;
+    font-size: 13px;
+    color: #fff;
+    background-color: #f78f1d;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    float: right;
+    margin-right: 28px;
+}
+.post-page-write-comment button:hover {
+    background-color: #000;
+    transition: 0.4s;
+}

@@ -1,0 +1,23 @@
+.sidebar-archives-item {
+    margin-bottom: 15px;
+    padding-left: 30px;
+    position: relative;
+}
+.sidebar-archives-title a {
+    color: #898989;
+    font-size: 13px;
+}
+.sidebar-archives-title a:hover {
+    text-decoration: underline;
+    transition: 0.3s;
+}
+.sidebar-archives-item:before {
+    content: "\25b6";
+    display: block;
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    color: #5261ac;
+    font-size: 13px;
+}
+

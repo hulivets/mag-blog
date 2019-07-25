@@ -1,0 +1,120 @@
+
+.c-post-wrap {
+    padding: 15px 0;
+    padding-right: 50px;
+}
+.c-post-date {
+	position: relative;
+}
+.post-day {
+    position: absolute;
+    width: 63px;
+	top: 2px;
+	left: -73px;
+	padding: 7px 10px 5px 18px;
+	font-size: 35px;
+	color: #ebebeb;
+}
+.post-month {
+	width: 54.84px;
+	position: absolute;
+	top: 49px;
+	left: -65px;
+	font-size: 19px;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 5px 10px;
+}
+.post-title, .post-title a{
+    font-size: 35px;
+	color: #000;
+	line-height: 39px;
+}
+.post-title a:hover {
+	color: #224586;
+	transition: 0.4s;
+}
+.post-description {
+    padding: 10px 30px 0 0;
+	color: #888888;
+	line-height: 25px;
+}
+.image-post-wrap {
+	padding: 5px;
+	border: solid 1px #ccc;
+    overflow: hidden;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.post-image {
+	position: relative;
+	overflow: hidden;
+	
+}
+.post-image image {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.post-category, .post-comments, .post-read-more {
+    color: #888888;
+}
+.post-category a{
+	color: #888888;
+	text-transform: capitalize;
+}
+.post-category a span:hover {
+	text-decoration: underline;
+	transition: 0.4s;
+}
+.post-comments {
+    margin-left: 10px;
+}
+.c-post-wrap i {
+    color: #f78f1d;
+    margin-left: 30px;
+}
+.post-read-more a{
+	color: #888888;
+    float: right;
+}
+.post-read-more a:hover {
+    text-decoration: underline;
+    transition: 0.3s;
+}
+.show-more-btn {
+	padding: 10px;
+    font-size: 11px;
+    color: #fff;
+    background-color: #f78f1d;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+	float: right;
+	margin-top: 20px;
+	margin-right: 250px;
+	margin-bottom: 30px;
+}
+.show-less-btn {
+	padding: 10px;
+    font-size: 11px;
+    color: #fff;
+    background-color: #f78f1d;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+	float: left;
+	margin-left: 200px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+ .show-more-btn:hover {
+	background-color: #000;
+	transition: 0.4s;
+}
+.show-less-btn:hover {
+	background-color: #000;
+	transition: 0.4s;
+}

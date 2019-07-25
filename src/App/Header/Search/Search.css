@@ -1,0 +1,29 @@
+.search-wrap {
+	width: 440px;
+	padding-top: 14px;
+	margin: 0 auto;
+}
+.search-wrap input {
+	float: left;
+	width: 318px;
+	height: 35px;
+	padding: 5px;
+	border: solid 1px #ccc;
+	border-right: none;
+}
+.search-wrap button {
+	float: left;
+	width: 120px;
+	height: 35px;
+	padding: 0 20px;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 19px;
+	line-height: 35px;
+	border: none;
+
+}
+.search-wrap button:hover {
+    background-color: #000;
+    transition: 0.3s;
+}

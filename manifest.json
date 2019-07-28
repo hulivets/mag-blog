@@ -8,6 +8,12 @@
       "type": "image/x-icon"
     }
   ],
+  "images": [
+    {
+      "src": "/images/posts/1.jpg",
+      "type": "image"
+    }
+  ]
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

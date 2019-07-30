@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mag-blog/static/css/main.3c309108.chunk.css",
-    "main.js": "/mag-blog/static/js/main.7c73ddf1.chunk.js",
-    "main.js.map": "/mag-blog/static/js/main.7c73ddf1.chunk.js.map",
+    "main.js": "/mag-blog/static/js/main.17529489.chunk.js",
+    "main.js.map": "/mag-blog/static/js/main.17529489.chunk.js.map",
     "runtime~main.js": "/mag-blog/static/js/runtime~main.d4c99942.js",
     "runtime~main.js.map": "/mag-blog/static/js/runtime~main.d4c99942.js.map",
     "static/js/2.d13010e9.chunk.js": "/mag-blog/static/js/2.d13010e9.chunk.js",
     "static/js/2.d13010e9.chunk.js.map": "/mag-blog/static/js/2.d13010e9.chunk.js.map",
     "index.html": "/mag-blog/index.html",
-    "precache-manifest.d28533f6e0295717304e92b0ffd3442b.js": "/mag-blog/precache-manifest.d28533f6e0295717304e92b0ffd3442b.js",
+    "precache-manifest.9e1e6bb32fca1b467623c7519bfa8122.js": "/mag-blog/precache-manifest.9e1e6bb32fca1b467623c7519bfa8122.js",
     "service-worker.js": "/mag-blog/service-worker.js",
     "static/css/main.3c309108.chunk.css.map": "/mag-blog/static/css/main.3c309108.chunk.css.map"
   }

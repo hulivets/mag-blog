@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27d5dd08ffaeaf9fa13d48962c2620ca",
+    "revision": "f13787d0172cbb1db0025c514d5ce7d1",
     "url": "/mag-blog/index.html"
   },
   {
-    "revision": "ebf644527a78a83ed697",
+    "revision": "60672da7ab971a84b3d3",
     "url": "/mag-blog/static/css/main.3be67959.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mag-blog/static/js/2.011a88ab.chunk.js"
   },
   {
-    "revision": "ebf644527a78a83ed697",
-    "url": "/mag-blog/static/js/main.45d4b389.chunk.js"
+    "revision": "60672da7ab971a84b3d3",
+    "url": "/mag-blog/static/js/main.8d1859b4.chunk.js"
   },
   {
     "revision": "461366dd29f2a1f3d4e9",
